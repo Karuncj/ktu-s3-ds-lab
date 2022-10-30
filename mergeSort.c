@@ -1,6 +1,6 @@
 /************************************************************************
  * File         :   mergeSort.c
- * Description  :   C Program to  implement merge sort algorothm
+ * Description  :   C Program to  implement merge sort algorithm
  * Author       :   Tomin Joy
  * Version      :   1.0
  * Date         :   17/01/2022
